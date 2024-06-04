@@ -16,7 +16,7 @@ The Calculator application allows users to perform basic arithmetic operations s
 ## Live Demo
 
 You can view the live demo of this project on Netlify:
-[Calculator](https://your-netlify-link.netlify.app)
+[Calculator](https://ease-calculator.netlify.app/)
 
 ## License
 
